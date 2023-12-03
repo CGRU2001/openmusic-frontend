@@ -1,0 +1,1 @@
+export type ResourceType = "album" | "artist" | "song"
